@@ -146,6 +146,8 @@ This sends your new branch with the committed changes to your fork on GitHub.
 
 If you get stuck or have questions, feel free to reach out!
 
+## Connect with me on LinkedIn 🤝: [Patel Muhammad](https://www.linkedin.com/in/patel-muhammad/)
+
 
 ## 🎉 That's It, Happy hacking!
 
